@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow: hidden;
+
+}
+main{
+    flex: 1 0 auto;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    background-color:rgb(207, 215, 226);
+    margin: 100px 320px 0px 320px;
+    padding: 60px 0px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+#login{
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
